@@ -1,4 +1,4 @@
-# databricks-startup-lakehouse-
+# databricks-startup-lakehouse
 Real-Time Startup Growth &amp; Churn Analytics
 # Startup Analytics Lakehouse Platform on Databricks
 
